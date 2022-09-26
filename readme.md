@@ -22,6 +22,6 @@
 
 ---
 
-## [Live-Link](https://project-1-street-style-landing1-page.netlify.app/)
+## [Live-Link](https://project-2-food-restaurant-home-page.netlify.app/)
 
 ---
